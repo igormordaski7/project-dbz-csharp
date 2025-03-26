@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sw_cod\\aula03\\Xablau\\Xablau.csproj": {}
+    "C:\\sw_cod\\aula03\\class_cod\\project-dbz-csharp\\Xablau.csproj": {}
   },
   "projects": {
-    "C:\\sw_cod\\aula03\\Xablau\\Xablau.csproj": {
+    "C:\\sw_cod\\aula03\\class_cod\\project-dbz-csharp\\Xablau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sw_cod\\aula03\\Xablau\\Xablau.csproj",
+        "projectUniqueName": "C:\\sw_cod\\aula03\\class_cod\\project-dbz-csharp\\Xablau.csproj",
         "projectName": "Xablau",
-        "projectPath": "C:\\sw_cod\\aula03\\Xablau\\Xablau.csproj",
+        "projectPath": "C:\\sw_cod\\aula03\\class_cod\\project-dbz-csharp\\Xablau.csproj",
         "packagesPath": "C:\\Users\\igorm\\.nuget\\packages\\",
-        "outputPath": "C:\\sw_cod\\aula03\\Xablau\\obj\\",
+        "outputPath": "C:\\sw_cod\\aula03\\class_cod\\project-dbz-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igorm\\AppData\\Roaming\\NuGet\\NuGet.Config"
